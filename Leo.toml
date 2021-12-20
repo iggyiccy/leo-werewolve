@@ -1,0 +1,8 @@
+[project]
+name = "Werewolve - The Game"
+version = "0.1.0"
+description = "Implement Werewolve Game in Leo"
+license = "MIT"
+
+[remote]
+author = "iggyiccy" 

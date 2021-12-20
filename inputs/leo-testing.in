@@ -1,0 +1,6 @@
+// The program input for leo-testing/src/main.leo
+[main]
+something: bool = true;
+
+[registers]
+r0: u32 = 0;
